@@ -1,5 +1,7 @@
 # 두 정수 사이의 합
+두 정수 a, b 가 주어졌을 때 그 사이 값들의 합을 구하는 문제
 
+## 
 ```
 function solution(a, b) {
     var answer = 0;
